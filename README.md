@@ -89,6 +89,15 @@ A list of useful AI tools with their websites.
    - Veed.io is an AI-powered video editing platform that allows users to create and edit videos with easy-to-use tools and automated          features, all within a browser.
 
 ## 30. [Playground AI](https://www.playground.com)
-   - Playground AI is a platform that allows users to create and experiment with AI-generated content, from images to text, using various      AI models in a user-friendly interface.
+   - Playground AI is a platform that allows users to create and experiment with AI-generated content, from images to text, using             various      AI models in a user-friendly interface.
+
+## 31. [Tome](https://www.tome.app)
+   - Tome is an AI-powered storytelling and presentation tool that helps users create visually stunning presentations and narratives          with the help of intelligent content generation.
+
+
+
+
+
+
 
 
