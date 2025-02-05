@@ -49,7 +49,11 @@ A list of useful AI tools with their websites.
 ## 16. [WhattheAI.Tech](https://www.whattheai.tech)
    - WhattheAI.Tech is a platform that explores the latest advancements in AI, offering insights and access to cutting-edge AI tools and       technologies.
 
+## 17. [MidJourney](https://www.midjourney.com)
+   - MidJourney is an AI-powered tool that generates stunning, high-quality images from text prompts, allowing users to create digital         art effortlessly.
 
+## 18. [Artificin](https://www.artificin.com)
+   - Artificin is an AI-powered platform that helps businesses automate processes and improve decision-making by integrating machine           learning solutions.
 
 
 
