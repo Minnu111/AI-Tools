@@ -76,4 +76,10 @@ A list of useful AI tools with their websites.
 ## 25. [DeepLearning.AI](https://www.learn.deeplearning.ai)
    - DeepLearning.AI offers AI and machine learning courses, including the popular Deep Learning Specialization, helping learners gain         hands-on experience in AI.
 
+## 26. [LlamaChat](https://www.llamachat.app)
+   - LlamaChat is an AI-powered chatbot platform that helps businesses automate customer support and enhance user engagement through           intelligent conversations.
+
+
+
+
 
