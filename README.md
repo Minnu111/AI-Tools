@@ -55,6 +55,8 @@ A list of useful AI tools with their websites.
 ## 18. [Artificin](https://www.artificin.com)
    - Artificin is an AI-powered platform that helps businesses automate processes and improve decision-making by integrating machine           learning solutions.
 
+## 19. [Nutshell](https://www.nutshellapp.com)
+   - Nutshell is an AI-driven CRM and sales automation platform that helps teams manage customer relationships, sales processes, and           marketing workflows.
 
 
 
