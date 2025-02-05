@@ -58,5 +58,22 @@ A list of useful AI tools with their websites.
 ## 19. [Nutshell](https://www.nutshellapp.com)
    - Nutshell is an AI-driven CRM and sales automation platform that helps teams manage customer relationships, sales processes, and           marketing workflows.
 
+## 20. [AI For ASM](https://www.ai.forasm.com)
+   - AI For ASM is an AI-powered platform designed to help businesses automate and optimize their Account and Sales Management processes       using intelligent tools.
+
+## 21. [AI Nero](https://www.ai.nero.com)
+   - AI Nero is an AI-powered solution that helps businesses automate tasks, optimize workflows, and analyze data with advanced machine        learning tools.
+
+## 22. [Napkin AI](https://www.napkin.ai)
+   - Napkin AI is a tool that leverages AI to assist with rapid prototyping, helping users quickly bring ideas to life with minimal            effort.
+
+## 23. [Clay](https://www.clay.com)
+   - Clay is an AI-powered personal CRM that helps users organize and manage their contacts, relationships, and interactions more              effectively.
+
+## 24. [CrewAI](https://www.crewai.com)
+   - CrewAI is an AI-powered tool designed to help teams collaborate more effectively by automating project management and streamlining        workflows.
+
+## 25. [DeepLearning.AI](https://www.learn.deeplearning.ai)
+   - DeepLearning.AI offers AI and machine learning courses, including the popular Deep Learning Specialization, helping learners gain         hands-on experience in AI.
 
 
