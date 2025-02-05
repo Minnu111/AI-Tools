@@ -106,7 +106,11 @@ A list of useful AI tools with their websites.
 ## 35. [Kittl](https://www.kittl.com)
    - Kittl is an AI-powered graphic design tool that helps users create stunning designs with ease, offering templates, intuitive tools,      and smart features for both beginners and professionals.
 
+## 36. [Visuali.io](https://www.visuali.io)
+   - Visuali.io is an AI-powered design platform that helps users create data visualizations and infographics with ease, transforming         raw data into interactive and visually engaging content.
 
+## 37. [Captions.ai](https://www.captions.ai)
+   - Captions.ai is an AI-powered tool designed to automatically generate accurate captions and subtitles for videos, making content          more accessible and improving viewer engagement.
 
 
 
