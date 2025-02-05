@@ -91,10 +91,20 @@ A list of useful AI tools with their websites.
 ## 30. [Playground AI](https://www.playground.com)
    - Playground AI is a platform that allows users to create and experiment with AI-generated content, from images to text, using             various      AI models in a user-friendly interface.
 
+## 31. [Photopea](https://www.photopea.com)
+   - Photopea is a free, AI-powered online photo editor that supports various formats and provides advanced editing tools for both            beginners and professionals.
 
+## 32. [Thirdweb AI](https://www.thirdweb.com)
+   - Thirdweb AI is a platform that helps developers build, manage, and scale decentralized applications (dApps) using AI-powered tools       and blockchain technology.
 
+## 33. [Gamma](https://www.gamma.app)
+   - Gamma is an AI-powered platform that helps users create beautiful and dynamic presentations and documents quickly with the help of       intelligent design tools.
 
+## 34. [Fotor](https://www.fotor.com)
+   - Fotor is an AI-powered online photo editing and design tool that provides users with easy-to-use features to enhance photos, create      graphics, and make stunning designs.
 
+## 35. [Kittl](https://www.kittl.com)
+   - Kittl is an AI-powered graphic design tool that helps users create stunning designs with ease, offering templates, intuitive tools,      and smart features for both beginners and professionals.
 
 
 
