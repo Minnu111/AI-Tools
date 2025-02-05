@@ -79,7 +79,16 @@ A list of useful AI tools with their websites.
 ## 26. [LlamaChat](https://www.llamachat.app)
    - LlamaChat is an AI-powered chatbot platform that helps businesses automate customer support and enhance user engagement through           intelligent conversations.
 
+## 27. [Claude AI](https://www.claude.ai)
+   - Claude AI is a conversational AI model developed to assist with natural language understanding and help businesses automate various       tasks and processes.
 
+## 28. [TTSMaker](https://www.ttsmaker.com)
+   - TTSMaker is a text-to-speech platform that uses AI to convert written text into natural-sounding speech, with various voices and          languages to choose from.
 
+## 29. [Veed.io](https://www.veed.io)
+   - Veed.io is an AI-powered video editing platform that allows users to create and edit videos with easy-to-use tools and automated          features, all within a browser.
+
+## 30. [Playground AI](https://www.playground.com)
+   - Playground AI is a platform that allows users to create and experiment with AI-generated content, from images to text, using various      AI models in a user-friendly interface.
 
 
